@@ -4,7 +4,7 @@ This is a repository for useful GIMP scripts for photographers.
 
 With the lockdown of registry.gimp.org, there is no live script repository (until I figure out what to do with the registry). For the time being, we can use this to share and work on helpful photography-related scripts.
 
-* [**sg-luminosity-masks**][]  
+* [**sg-luminosity-masks**][sg-luminosity-masks]  
 This is [Saul Goodes][goode] original script based on work that [Pat David][david-lum] had originally done porting [Tony Kuypers Luminosity Masks][kuyper-lum] to GIMP.
 
 [sg-luminosity-masks]: /sg-luminosity-masks.scm
