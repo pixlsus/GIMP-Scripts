@@ -28,9 +28,10 @@ With the lockdown of registry.gimp.org, there is no live script repository (unti
 The .scm files need to be placed into the "Scripts" folder of GIMP.
 
 The easiest way to locate these folders (and to possibly add new locations) is to open GIMP, then navigate to:  
+
 `Edit → Preferences`
 
-From there, go to `Folders → Scripts`:
+From there, go to: `Folders → Scripts`
 
 ![GIMP Preferences Scripts Folder](gimp-prefs-scripts-folder.png)
 
