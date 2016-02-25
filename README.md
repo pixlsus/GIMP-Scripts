@@ -11,7 +11,7 @@ With the lockdown of registry.gimp.org, there is no live script repository (unti
 * [**patdavid-check-layer.scm**][patdavid-check-layer]  
     `<Image> → Filters → Generic → Skin Check Layer...`  
     This will create a blue-chanel view of the color image to help in identifying and fixing skin blemishes.  
-    From an idea by [Calvin Hollywood][], implemented in GIMP by [Pat David][david-skincheck].
+    From an idea by [Calvin Hollywood][], [implementation in GIMP][david-skincheck]. 
 
 [sg-luminosity-masks]: /sg-luminosity-masks.scm
 [goode]: http://chiselapp.com/user/saulgoode/repository/script-fu/index
