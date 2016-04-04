@@ -60,6 +60,8 @@ Using the ability shown above to add arbitrary, new folder locations to look for
 
     ![download as zip](Download-zip.png)
 
+    Then extract the contents to an appropriate folder for the step below.
+
 4. Following the above example of adding a new directory for GIMP to search for scripts, add this new cloned directory.
 
 Voilà!
