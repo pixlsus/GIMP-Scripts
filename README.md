@@ -58,6 +58,8 @@ Using the ability shown above to add arbitrary, new folder locations to look for
 
     3a.  You can download the repository contents as a .zip file as well.
 
+    ![download as zip](Download-zip.png)
+
 4. Following the above example of adding a new directory for GIMP to search for scripts, add this new cloned directory.
 
 Voilà!
