@@ -56,7 +56,7 @@ Using the ability shown above to add arbitrary, new folder locations to look for
 
     You'll now have the repo on your path: `C:\Users\{USERNAME}\GIMP-Scripts\ `
 
-3a.  You can download the repository contents as a .zip file as well.
+    3a.  You can download the repository contents as a .zip file as well.
 
 4. Following the above example of adding a new directory for GIMP to search for scripts, add this new cloned directory.
 
