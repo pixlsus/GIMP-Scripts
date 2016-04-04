@@ -49,12 +49,14 @@ Using the ability shown above to add arbitrary, new folder locations to look for
 2. Navigate to a good location to save these files.
     Git will want to clone repositories into a new directory under your current location, so I used my home folder (`C:\Users\patrickd`) here as an example (yours can be anywhere you want).
 
-3. Clone this repository:  
+3. Clone this repository (See 3a below if you don't have git):  
     `C:\Users\patrickd> git clone https://github.com/pixlsus/GIMP-Scripts.git`
 
     ![git clone pixlsus GIMP-Scripts repository](github-clone.gif)  
 
     You'll now have the repo on your path: `C:\Users\{USERNAME}\GIMP-Scripts\ `
+
+3a.  You can download the repository contents as a .zip file as well.
 
 4. Following the above example of adding a new directory for GIMP to search for scripts, add this new cloned directory.
 
