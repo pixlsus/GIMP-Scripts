@@ -13,10 +13,16 @@ With the lockdown of registry.gimp.org, there is no live script repository (unti
     This will create a blue-chanel view of the color image to help in identifying and fixing skin blemishes.  
     From an idea by [Calvin Hollywood][], [implementation in GIMP][david-skincheck]. 
 
+* [**patdavid-color-decompose_0.3.scm**][patdavid-color-decompose]  
+    `<Image> → Colors → Generic → Color Decompose...`  
+    This will decompose an RGB image into each of the color decomposition modes, and keep the most useful for B&W conversions.  
+    This is script is referenced in the tutorial [Digital B&W Conversion](http://www.gimp.org/tutorials/Digital_Black_and_White_Conversion/) on www.gimp.org.
+
 [sg-luminosity-masks]: /sg-luminosity-masks.scm
 [goode]: http://chiselapp.com/user/saulgoode/repository/script-fu/index
 [david-lum]: http://blog.patdavid.net/2013/11/getting-around-in-gimp-luminosity-masks.html
 [kuyper-lum]: http://goodlight.us/writing/luminositymasks/luminositymasks-1.html
+[patdavid-color-decompose]: /patdavid-color-decompose_0.3.scm
 
 [patdavid-check-layer]: /patdavid-check-layer.scm
 [Calvin Hollywood]: https://www.youtube.com/watch?v=OSP-XTIfnGU
