@@ -20,7 +20,7 @@ With the lockdown of registry.gimp.org, there is no live script repository (unti
 
 * [**gu-hillustrative.scm**][gu-hillustrative]
   `<Image> → ScriptFu → hillustrative...`
-  This applies a series of G'MIC filters that achieves the [Highlight Bloom and Illustrative filter](https://discuss.pixls.us/t/highlight-bloom-and-photoillustration-look/) detailed in the tutorial. The `hillustrative-2.8.scm` is specifically for GIMP 2.8 if the other filter does not work. Make sure your G'MIC filters are up-to-date. The SCM file was authored by [Sebastien Guyader](https://discuss.pixls.us/users/sguyader/activity).
+  This applies a series of G'MIC filters that achieves the [Highlight Bloom and Illustrative filter](https://discuss.pixls.us/t/highlight-bloom-and-photoillustration-look/) detailed in the tutorial. Make sure your G'MIC filters are up-to-date. The SCM file was authored by [Sebastien Guyader](https://discuss.pixls.us/users/sguyader/activity).
 
 [sg-luminosity-masks]: /sg-luminosity-masks.scm
 [goode]: http://chiselapp.com/user/saulgoode/repository/script-fu/index
