@@ -1,8 +1,8 @@
 # GIMP-Scripts
 
-This is a repository for useful GIMP scripts for photographers.
+This is a repository for useful GIMP scripts.
 
-With the lockdown of registry.gimp.org, there is no live script repository (until I figure out what to do with the registry). For the time being, we can use this to share and work on helpful photography-related scripts.
+With the lockdown of registry.gimp.org, there is no live script repository (until I figure out what to do with the registry). For the time being, we can use this to share and work on helpful scripts.
 
 * [**sg-luminosity-masks.scm**][sg-luminosity-masks]
     `<Image> → Filters → Generic → Luminosity Masks (saulgoode)`
